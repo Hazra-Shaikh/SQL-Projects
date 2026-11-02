@@ -23,3 +23,9 @@ Analyzed vehicle insurance data using SQL queries to examine policy details, com
 **Technologies:** SQL | Data Analysis
 
 **Repository:** [Vehicle Insurance Management System (VIMS)](https://github.com/Hazra-Shaikh/Vehicle-Insurance-Management-System-VIMS-)
+
+### 3. 🏦 Banking Data Analysis Using SQL
+
+Analyzed banking data using MySQL to explore customer accounts, transactions, loans, branch performance, and employee details. Applied joins, subqueries, window functions, CTEs, views, indexing, and transaction management.
+
+🔗 **Repository:** [View Project Repository](https://github.com/Hazra-Shaikh/Banking-Data-Analysis-SQL-Project)
