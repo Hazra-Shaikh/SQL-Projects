@@ -28,4 +28,4 @@ Analyzed vehicle insurance data using SQL queries to examine policy details, com
 
 Analyzed banking data using MySQL to explore customer accounts, transactions, loans, branch performance, and employee details. Applied joins, subqueries, window functions, CTEs, views, indexing, and transaction management.
 
-🔗 **Repository:** [View Project Repository](https://github.com/Hazra-Shaikh/Banking-Data-Analysis-SQL-Project)
+🔗 **Repository:** [Banking Data Analysis](https://github.com/Hazra-Shaikh/Banking-Data-Analysis-SQL-Project)
